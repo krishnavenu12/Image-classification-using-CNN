@@ -101,8 +101,8 @@ During my internship at **Navodhitha Technologies**, I had the opportunity to wo
 
 **Krishna Venugopal**
 📍 India
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐱 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/krishna-venugopal-9b073b267)
+🐱 [GitHub](https://github.com/krishnavenu12)
 
 ---
 
