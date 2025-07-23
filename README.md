@@ -1,8 +1,3 @@
-Here's the complete `README.md` for your **Multi-Output Image Classification with CNNs** project, including everything — project structure, results, author, etc. — all properly formatted in **Markdown** for GitHub:
-
----
-
-```markdown
 # 🧠 Multi-Output Image Classification with CNNs
 
 This project implements a multi-output Convolutional Neural Network (CNN) that simultaneously classifies images from the **CIFAR-10** and **CIFAR-100** datasets. Developed during my internship at **Navodhitha Technologies**, it focuses on multi-task learning in image classification.
